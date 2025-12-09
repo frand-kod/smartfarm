@@ -10,6 +10,8 @@ Before running, make sure you already have an MQTT broker running (e.g. **Mosqui
 - MQTT server (Mosquitto, EMQX, HiveMQ, etc.)
 - Bun ≥ **1.2.23**
 
+After all:
+
 ```bash
 bun install
 ```
